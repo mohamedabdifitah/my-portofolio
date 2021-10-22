@@ -1,0 +1,26 @@
+.personal__detail{
+position:relative;
+background-color:indigo;
+width:100%;
+height:40%;
+top:15%;
+
+}
+.stories {
+position:relative;
+background-color:black;
+height:90%;
+width:40%;
+top:5%;
+left:5%;
+overflow:hidden;
+}
+.projects {
+position:relative;
+width:90%;
+height:50%;
+border:1px solid #333;
+border-radius:5;
+overflow:hidden;
+
+}
